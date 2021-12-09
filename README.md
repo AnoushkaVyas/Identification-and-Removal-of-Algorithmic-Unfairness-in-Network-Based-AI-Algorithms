@@ -1,6 +1,6 @@
 # Flexible Fairness Constraints for Graph Embeddings
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A2N4yD59Q992NtbiIIuQLTPQeN_r0IjD?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dffB_QGKO2N7psGPsAPOPvogwzu8TDJD?usp=sharing)
 
 ## Setup
 
